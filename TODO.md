@@ -1,5 +1,3 @@
 # To do list:
-- Modify readme "check line 32" comment,
-- Add choice to keep/replace files with an already existing name as well as keep all/replace all,
-- Add recursive functionality (as parameter),
-- Add conditional file selection functionality (as interactive init).
+- Add recursive functionality,
+- Add skipping on collisions, to avoid renaming the same files again, with an interactive skip/skip all/rename/rename all prompt.
