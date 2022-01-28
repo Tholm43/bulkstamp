@@ -132,7 +132,7 @@ function showUsage {
   echo 'Usage: ./bulkstamp.sh DIR [TAG] [EXT]'
   echo '       DIR: working path'
   echo '       TAG: optional tag to add after timestamp, can be skipped with "-"'
-  echo '       EXT: replace all extensions with EXT, "-" means no extension'
+  echo '       EXT: replace all extensions with EXT, "-" will delete extensions'
   echo
 }
 
